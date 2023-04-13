@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:18:17:41 -0500] "GET /faces/guess.xhtml HTTP/1.1" 200 3707 http-bio-8080-exec-1 451
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:18:17:41 -0500] "GET /faces/javax.faces.resource/primeicons/primeicons.css;jsessionid=DFA292934E7318FC94F7FABF9DF72352?ln=primefaces&v=12.0.0 HTTP/1.1" 200 11145 http-bio-8080-exec-2 45
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:18:17:41 -0500] "GET /faces/javax.faces.resource/components.js;jsessionid=DFA292934E7318FC94F7FABF9DF72352?ln=primefaces&v=12.0.0 HTTP/1.1" 200 492154 http-bio-8080-exec-5 58
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:18:17:41 -0500] "GET /faces/javax.faces.resource/jquery/jquery.js;jsessionid=DFA292934E7318FC94F7FABF9DF72352?ln=primefaces&v=12.0.0 HTTP/1.1" 200 89756 http-bio-8080-exec-7 60
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:18:17:41 -0500] "GET /faces/javax.faces.resource/core.js;jsessionid=DFA292934E7318FC94F7FABF9DF72352?ln=primefaces&v=12.0.0 HTTP/1.1" 200 89155 http-bio-8080-exec-6 65
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:18:17:41 -0500] "GET /faces/javax.faces.resource/components.css;jsessionid=DFA292934E7318FC94F7FABF9DF72352?ln=primefaces&v=12.0.0 HTTP/1.1" 200 107992 http-bio-8080-exec-4 158
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:18:17:41 -0500] "GET /faces/javax.faces.resource/jquery/jquery-plugins.js;jsessionid=DFA292934E7318FC94F7FABF9DF72352?ln=primefaces&v=12.0.0 HTTP/1.1" 200 146589 http-bio-8080-exec-8 11
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:18:17:41 -0500] "GET /faces/javax.faces.resource/theme.css;jsessionid=DFA292934E7318FC94F7FABF9DF72352?ln=primefaces-saga&v=12.0.0 HTTP/1.1" 200 199176 http-bio-8080-exec-3 198
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:18:17:41 -0500] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 7
