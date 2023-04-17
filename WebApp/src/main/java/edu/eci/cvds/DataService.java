@@ -1,4 +1,4 @@
-package com.logicbig.example;
+package edu.eci.cvds;
 
 import org.springframework.stereotype.Service;
 import java.util.LinkedHashMap;

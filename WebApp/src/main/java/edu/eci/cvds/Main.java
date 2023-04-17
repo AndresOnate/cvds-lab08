@@ -1,4 +1,4 @@
-package com.logicbig.example;
+package edu.eci.cvds;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,6 +7,7 @@ import org.springframework.context.annotation.Bean;
 import javax.faces.webapp.FacesServlet;
 import javax.servlet.ServletContext;
 import java.util.Arrays;
+
 
 @SpringBootApplication
 public class Main{

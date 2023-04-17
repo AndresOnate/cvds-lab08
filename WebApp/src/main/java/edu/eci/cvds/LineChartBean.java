@@ -1,4 +1,4 @@
-package com.logicbig.example;
+package edu.eci.cvds;
 
 import org.primefaces.model.chart.Axis;
 import org.primefaces.model.chart.AxisType;
