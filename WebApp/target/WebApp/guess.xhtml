@@ -10,6 +10,7 @@
  <h:body>
     <h:form id="guess_form">
         <p:outputLabel  value="#{backingBean.getNumber()}" style="display: none;"/>
+        <h:outputLabel value="Bienvenido(a), #{userBean.getName()}!" />
         <h5>Input a number: </h5>
         <p:inputText binding="#{input}"/>
         <br/>
