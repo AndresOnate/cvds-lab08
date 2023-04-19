@@ -34,4 +34,6 @@ por capas)
         </plugins>
 ```
 
-2. 
+2. Agregamos las clases LineChartBean, DataService y la clase Main.
+
+3. Ejecutamos la apliacación con el comando `mvn spring-boot:run`.
