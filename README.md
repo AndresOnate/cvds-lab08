@@ -57,3 +57,5 @@ por capas)
 </html>
 ```
 4. Ejecutamos la aplicación con el comando `mvn spring-boot:run`.
+
+![image](https://user-images.githubusercontent.com/63562181/232957087-39c69432-7a7b-4873-9056-e21f472cf694.png)
