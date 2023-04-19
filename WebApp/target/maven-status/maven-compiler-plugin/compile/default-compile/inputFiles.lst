@@ -1,9 +1,10 @@
-C:\Users\admin\Downloads\cvds\cvds-lab08\WebApp\src\main\java\edu\eci\cvds\Main.java
+C:\Users\admin\Downloads\cvds\cvds-lab08\WebApp\src\main\java\edu\eci\cvds\beans\BackingBean.java
+C:\Users\admin\Downloads\cvds\cvds-lab08\WebApp\src\main\java\edu\eci\cvds\service\DataService.java
+C:\Users\admin\Downloads\cvds\cvds-lab08\WebApp\src\main\java\edu\eci\cvds\beans\LineChartBean.java
 C:\Users\admin\Downloads\cvds\cvds-lab08\WebApp\src\main\java\edu\eci\cvds\servlet\Service.java
-C:\Users\admin\Downloads\cvds\cvds-lab08\WebApp\src\main\java\edu\eci\cvds\LineChartBean.java
+C:\Users\admin\Downloads\cvds\cvds-lab08\WebApp\src\main\java\edu\eci\cvds\beans\Main.java
 C:\Users\admin\Downloads\cvds\cvds-lab08\WebApp\src\main\java\edu\eci\cvds\servlet\model\Todo.java
-C:\Users\admin\Downloads\cvds\cvds-lab08\WebApp\src\main\java\edu\eci\cvds\UserBean.java
-C:\Users\admin\Downloads\cvds\cvds-lab08\WebApp\src\main\java\edu\eci\cvds\DataService.java
+C:\Users\admin\Downloads\cvds\cvds-lab08\WebApp\src\main\java\edu\eci\cvds\beans\UserBean.java
 C:\Users\admin\Downloads\cvds\cvds-lab08\WebApp\src\main\java\edu\eci\cvds\servlet\Servlet.java
-C:\Users\admin\Downloads\cvds\cvds-lab08\WebApp\src\main\java\edu\eci\cvds\BackingBean.java
+C:\Users\admin\Downloads\cvds\cvds-lab08\WebApp\src\main\java\edu\eci\cvds\beans\DataService.java
 C:\Users\admin\Downloads\cvds\cvds-lab08\WebApp\src\main\java\edu\eci\cvds\servlet\SampleServlet.java

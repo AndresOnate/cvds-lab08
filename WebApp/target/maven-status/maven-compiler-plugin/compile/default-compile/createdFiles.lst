@@ -1,9 +1,10 @@
-edu\eci\cvds\BackingBean.class
-edu\eci\cvds\DataService.class
-edu\eci\cvds\UserBean.class
-edu\eci\cvds\Main.class
+edu\eci\cvds\beans\LineChartBean.class
+edu\eci\cvds\beans\DataService.class
+edu\eci\cvds\service\DataService.class
 edu\eci\cvds\servlet\model\Todo.class
 edu\eci\cvds\servlet\SampleServlet.class
-edu\eci\cvds\LineChartBean.class
 edu\eci\cvds\servlet\Service.class
+edu\eci\cvds\beans\Main.class
 edu\eci\cvds\servlet\Servlet.class
+edu\eci\cvds\beans\BackingBean.class
+edu\eci\cvds\beans\UserBean.class
