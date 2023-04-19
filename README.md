@@ -59,3 +59,27 @@ por capas)
 4. Ejecutamos la aplicación con el comando `mvn spring-boot:run`.
 
 ![image](https://user-images.githubusercontent.com/63562181/232957087-39c69432-7a7b-4873-9056-e21f472cf694.png)
+
+#PARTE II. INTEGRACIÓNDE SPRING DATA CONEL PROYECTO WEB.
+
+1. Agregamos las dependecias para la conexión con la base de datos:
+
+```
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+			<exclusions>
+				<exclusion>
+					<groupId>org.junit.vintage</groupId>
+					<artifactId>junit-vintage-engine</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>8.0.32</version>
+		</dependency>
+```
+
