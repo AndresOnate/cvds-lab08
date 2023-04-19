@@ -6,6 +6,6 @@ import org.springframework.stereotype.Repository;
 import edu.eci.cvds.model.*;
 
 @Repository
-public interface ConfigurationsRepository extends JpaRepository<Configuration, Long>{
+public interface ConfigurationsRepository extends JpaRepository<Configuration, String>{
     
 }

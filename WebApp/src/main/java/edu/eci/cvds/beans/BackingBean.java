@@ -9,7 +9,7 @@ import javax.faces.bean.SessionScoped;
 import org.springframework.stereotype.Component;
 
 @Component
-@ManagedBean
+@ManagedBean(name = "guessBean")
 @SessionScoped
 
 public class BackingBean {

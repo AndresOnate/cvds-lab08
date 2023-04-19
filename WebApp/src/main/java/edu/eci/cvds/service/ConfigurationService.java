@@ -1,6 +1,9 @@
 package edu.eci.cvds.service;
 
+import java.util.List;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import edu.eci.cvds.model.Configuration;
 import edu.eci.cvds.repository.ConfigurationsRepository;
 
 @Service
@@ -9,7 +12,7 @@ public class ConfigurationService {
     private final ConfigurationsRepository configurationRepository;
 	
 	@Autowired
-	public ConfigurationService(configurationRepository configurationRepository) {
+	public ConfigurationService(ConfigurationsRepository configurationRepository) {
 		this.configurationRepository = configurationRepository;
 	}
 	
@@ -17,7 +20,7 @@ public class ConfigurationService {
 		return configurationRepository.save(Configuration);
 	}
 	
-	public Configuration getConfiguration(Long ConfigurationId) {
+	public Configuration getConfiguration(String ConfigurationId) {
 		return configurationRepository.findById(ConfigurationId).get();
 	}
 	
@@ -33,7 +36,7 @@ public class ConfigurationService {
 		return null;
 	}
 	
-	public void deleteConfiguration(Long ConfigurationId) {
+	public void deleteConfiguration(String ConfigurationId) {
 		configurationRepository.deleteById(ConfigurationId);
 	}	
     
